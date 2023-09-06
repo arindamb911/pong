@@ -1,1 +1,1 @@
-# pong
+# learning python through games 
